@@ -1,4 +1,5 @@
 # Acme Blogs
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54339566-c1ee-46c6-82cf-825f448b9a2a/deploy-status)](https://app.netlify.com/sites/eloquent-euler-3f2195/deploys)
 
 [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/gitdagray/js_acme_blogs)
 
